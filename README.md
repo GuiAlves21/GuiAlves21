@@ -1,4 +1,4 @@
-<h2 align="left">Olá. Eu sou Guilherme Alves, Cientista da Computação</h2>
+<h2 align="left">Olá. Eu sou o Guilherme Alves, Cientista da Computação</h2>
 
 ###
 
